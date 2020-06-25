@@ -1,0 +1,21 @@
+{
+  "name": "drawsock",
+  "version": "1.0.0",
+  "description": "following coding train tutorial to build a websocket drawing tool wwith p5",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node"
+  ],
+  "author": "Courtney Morgan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
